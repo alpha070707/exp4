@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_upload" />
+    <drawable name="ic_share" />
+    <drawable name="ic_mail" />
+</resources>
